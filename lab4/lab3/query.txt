@@ -1,0 +1,7 @@
+insert into album(GENRE,NAME,RELEASE_YEAR) values('pop','Lover',2019);
+insert into album(GENRE,NAME,RELEASE_YEAR) values('pop','Fearless',2011);
+insert into album(GENRE,NAME,RELEASE_YEAR) values('indie','The secret of us',2024);
+
+insert into artist(BIO,FIRST_NAME,LAST_NAME) values('Taylor Swift','Taylor','Swift');
+insert into artist(BIO,FIRST_NAME,LAST_NAME) values('Gracie Abrams','Gracie','Abrams');
+insert into artist(BIO,FIRST_NAME,LAST_NAME) values('Conan Gray','Conan','Gray');
